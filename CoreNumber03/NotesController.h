@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  NotesController.h
 //  CoreNumber03
 //
 //  Created by keta on 2014/05/26.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface NotesController : UITableViewController
 
 @end
